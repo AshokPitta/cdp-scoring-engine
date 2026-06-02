@@ -1,0 +1,24 @@
+company_id,row_id,theme,route,score_achieved,maximum_score,c2_dates,c1_company_answer,c3_numbers,statement_1_present,statement_2_present,statement_3_present,c3_numbers_count,c3_numbers_has_even,notes
+1,r1,Climate Change,Route A,4,4,2024-05-15,"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor","[2, 4, 6, 8]",True,True,True,4,True,
+1,r2,Climate Change,Route A,4,4,2024-08-20,"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor","[2, 4, 6, 8, 10]",True,True,True,5,True,
+1,r2,Water,Route A,2,2,2024-08-20,"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor","[2, 4, 6, 8, 10]",True,True,True,5,True,
+2,r1,Climate Change,Route A,3,4,2024-03-20,"Lorem ipsum dolor sit amet, consectetur adipiscing elit","[1, 3, 5, 7, 9]",True,True,False,5,False,
+2,r2,Climate Change,Route A,3,4,2024-05-01,"Lorem ipsum dolor sit amet, consectetur adipiscing elit","[11, 13, 15, 17]",True,True,False,4,False,
+2,r2,Water,Route A,0,2,2024-05-01,"Lorem ipsum dolor sit amet, consectetur adipiscing elit","[11, 13, 15, 17]",True,True,False,4,False,
+2,r3,Water,Route B,1,2,2022-06-15,"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor","[2, 4, 6, 8]",True,True,True,4,True,Date on/before 2023-01-01.
+3,r1,Climate Change,Non-disclosure,0,0.5,2022-12-15,"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor","[2, 4, 6, 8]",True,True,True,4,True,Date on/before 2023-01-01.
+3,r2,Climate Change,Non-disclosure,0,0.5,2021-08-08,"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor","[2, 4, 6, 8]",True,True,True,4,True,Date on/before 2023-01-01.
+3,N/A,Water,Not applicable,0,0,,,,False,False,False,0,False,Theme not selected in any row for this company.
+4,r1,Climate Change,Route A,4,4,2024/06/01,"LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT, SED DO EIUSMOD TEMPOR","[2, 4, None, 6, 8]",True,True,True,4,True,
+4,r2,Water,Non-disclosure,0,0.5,,"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor","[3, 6, 9]",True,True,True,3,True,Date missing.
+5,r1,Climate Change,Route A,0,4,2024-08-15,"Lorem ipsum dolor sit amet, consectetur adipiscing elit","[1, 2, 3]",True,True,False,3,True,
+5,r2,Climate Change,Route A,0,4,2024-09-10,"Lorem ipsum dolor sit amet, consectetur adipiscing elit","[4, 5]",True,True,False,2,True,
+5,N/A,Water,Not applicable,0,0,,,,False,False,False,0,False,Theme not selected in any row for this company.
+6,r1,Climate Change,Route A,4,4,2023-07-21,"  Lorem ipsum dolor sit amet,   consectetur adipiscing elit, sed do eiusmod tempor  ","[5, 12, None, 7, 1]",True,True,True,4,True,
+6,r1,Water,Route A,2,2,2023-07-21,"  Lorem ipsum dolor sit amet,   consectetur adipiscing elit, sed do eiusmod tempor  ","[5, 12, None, 7, 1]",True,True,True,4,True,
+7,r1,Climate Change,Non-disclosure,0,0.5,,"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor","[2, 4, 6, 8]",True,True,True,4,True,Date missing.
+7,N/A,Water,Not applicable,0,0,,,,False,False,False,0,False,Theme not selected in any row for this company.
+8,r1,Climate Change,Route A,0,4,2024-09-10,"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",,True,True,True,0,False,
+8,N/A,Water,Not applicable,0,0,,,,False,False,False,0,False,Theme not selected in any row for this company.
+9,r1,Water,Route A,2,2,2024-05-15,"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor","[2, 4, 6, 8]",True,True,True,4,True,
+9,N/A,Climate Change,Not applicable,0,0,,,,False,False,False,0,False,Theme not selected in any row for this company.
