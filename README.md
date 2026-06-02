@@ -114,4 +114,4 @@ See [SETUP.md](./SETUP.md) for detailed environment setup instructions.
 ## Author
 
 **Ashok Pitta** — MSc Artificial Intelligence, University of Sheffield  
-[LinkedIn](https://linkedin.com/in/ashok-pitta-ai) · [GitHub](https://github.com/ashok-pitta)
+[LinkedIn](https://linkedin.com/in/ashok-pitta-ai) · [GitHub](https://github.com/AshokPitta)
