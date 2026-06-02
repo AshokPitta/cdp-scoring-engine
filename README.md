@@ -1,6 +1,6 @@
 # CDP Disclosure Scoring System
 
-A technical assessment project built for **CDP (Carbon Disclosure Project)** — an automated scoring engine that evaluates company climate and water disclosure responses based on a multi-route decision tree logic.
+A technical assessment project built for **CDP (Carbon Disclosure Project)** : an automated scoring engine that evaluates company climate and water disclosure responses based on a multi-route decision tree logic.
 
 ---
 
