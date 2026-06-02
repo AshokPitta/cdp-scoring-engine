@@ -1,0 +1,129 @@
+{
+    "companies": {
+        "1": {
+            "q_1_1": {
+                "r1": {
+                    "c1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+                    "c2": "2024-05-15",
+                    "c3": [2, 4, 6, 8],
+                    "c4": ["Climate Change"]
+                },
+                "r2": {
+                    "c1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+                    "c2": "2024-08-20",
+                    "c3": [2, 4, 6, 8, 10],
+                    "c4": ["Climate Change", "Water"]
+                }
+            }
+        },
+        "2": {
+            "q_1_1": {
+                "r1": {
+                    "c1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                    "c2": "2024-03-20",
+                    "c3": [1, 3, 5, 7, 9],
+                    "c4": ["Climate Change"]
+                },
+                "r2": {
+                    "c1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                    "c2": "2024-05-01",
+                    "c3": [11, 13, 15, 17],
+                    "c4": ["Climate Change", "Water"]
+                },
+                "r3": {
+                    "c1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+                    "c2": "2022-06-15",
+                    "c3": [2, 4, 6, 8],
+                    "c4": ["Water"]
+                }
+            }
+        },
+        "3": {
+            "q_1_1": {
+                "r1": {
+                    "c1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+                    "c2": "2022-12-15",
+                    "c3": [2, 4, 6, 8],
+                    "c4": ["Climate Change"]
+                },
+                "r2": {
+                    "c1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+                    "c2": "2021-08-08",
+                    "c3": [2, 4, 6, 8],
+                    "c4": ["Climate Change"]
+                }
+            }
+        },
+        "4": {
+            "q_1_1": {
+                "r1": {
+                    "c1": "LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT, SED DO EIUSMOD TEMPOR",
+                    "c2": "2024/06/01",
+                    "c3": [2, 4, null, 6, 8],
+                    "c4": ["Climate Change"]
+                },
+                "r2": {
+                    "c1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+                    "c2": null,
+                    "c3": [3, 6, 9],
+                    "c4": ["Water"]
+                }
+            }
+        },
+        "5": {
+            "q_1_1": {
+                "r1": {
+                    "c1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                    "c2": "2024-08-15",
+                    "c3": [1, 2, 3],
+                    "c4": ["Climate Change"]
+                },
+                "r2": {
+                    "c1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                    "c2": "2024-09-10",
+                    "c3": [4, 5],
+                    "c4": ["Climate Change"]
+                }
+            }
+        },
+        "6": {
+            "q_1_1": {
+                "r1": {
+                    "c1": "  Lorem ipsum dolor sit amet,   consectetur adipiscing elit, sed do eiusmod tempor  ",
+                    "c2": "2023-07-21",
+                    "c3": [5, 12, null, 7, 1],
+                    "c4": ["Climate Change", "Water"]
+                }
+            }
+        },
+        "7": {
+            "q_1_1": {
+                "r1": {
+                    "c1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+                    "c2": null,
+                    "c3": [2, 4, 6, 8],
+                    "c4": ["Climate Change"]
+                }
+            }
+        },
+        "8": {
+            "q_1_1": {
+                "r1": {
+                    "c1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+                    "c2": "2024-09-10",
+                    "c4": ["Climate Change"]
+                }
+            }
+        },
+        "9": {
+            "q_1_1": {
+                "r1": {
+                    "c1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+                    "c2": "2024-05-15",
+                    "c3": [2, 4, 6, 8],
+                    "c4": ["Water"]
+                }
+            }
+        }
+    }
+}
